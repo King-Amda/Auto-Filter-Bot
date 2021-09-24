@@ -15,3 +15,7 @@ pip3 install -r requirements.txt
 python3 main.py
 ```
 
+# Credits
+
+- [Repo Owner](https://github.com/TroJanzHEX/Auto-Filter-Bot)
+
